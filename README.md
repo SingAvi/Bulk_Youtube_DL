@@ -2,8 +2,7 @@
 
 Downloading Works only User Interface to be implied on the project.
 
-## Under Construction 
-## 70%
+## Under Construction 70%
 
 # Things left to be implemented
 
