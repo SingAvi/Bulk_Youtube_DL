@@ -1,5 +1,7 @@
 # Bulk_Youtube_DL
 
+Downloading Works only User Interface to be implied on the project.
+
 ## Under Construction 
 ## 70%
 
