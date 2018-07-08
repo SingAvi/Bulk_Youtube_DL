@@ -1,8 +1,11 @@
 from pytube import YouTube
 
 save_path = 'Directory for saving the files'
+
+# Reading links from text files
 link = open('links.txt', 'r')
 
+# For links count
 count = 0
 
 for i in (link):
@@ -19,7 +22,7 @@ for i in (link):
 
         print('Finished downloading ' + x.title)
 
-        print('---------' + "\n")
+        print('-------------------------------------' + "\n")
         # Increasing count of the link as it completes the downloading
         count = count + 1
 
