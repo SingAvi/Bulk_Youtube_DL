@@ -1,6 +1,7 @@
-# Bulk_Youtube_DL
+# Bulk_Youtube_DL :memo:
 
-Downloading Works only User Interface to be implied on the project.
+Downloading Works 
+Only User Interface to be implied on the project.
 
 ## Under Construction 70%
 
@@ -12,9 +13,18 @@ Downloading Works only User Interface to be implied on the project.
 
 3.Much effecient work
 
-
+## Steps To Execute
+  - Clone project 
+  - Add your links in the ".txt" file provided
+  - Open Terminal and push down to the directory of the project
+  - Execute by typing 
+    - python bulk_download.py
+  - Let it Run until shows 100% completed.
+  
 
 ### People are invited to bring in changes for the same or add new features.
 ### Pull Request for same 
+
+# Do not forget to :star: the project if pleased by it. 
 
 # Happy Coding ♥
