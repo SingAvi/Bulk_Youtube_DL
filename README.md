@@ -14,9 +14,9 @@ Only User Interface to be implied on the project.
 3.Much effecient work
 
 ## Steps To Execute
-  - Clone project 
-  - Add your links in the ".txt" file provided
-  - Open Terminal and push down to the directory of the project
+  - Clone project https://github.com/SingAvi/Bulk_Youtube_DL.git
+  - Add your links in the ".txt" file provided with the project.
+  - Open Terminal and push down to the directory of the project.
   - Execute by typing 
     - python bulk_download.py
   - Let it Run until shows 100% completed.
