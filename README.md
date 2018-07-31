@@ -17,10 +17,11 @@ Only User Interface to be implied on the project.
   - **Clone project** https://github.com/SingAvi/Bulk_Youtube_DL.git
   
     >  Install the "pythube" library for the python-script
-        '''
-        Windows/Linux/Mac - $ pip install pytube
-        '''
-  
+        ```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
     >  Add your links in the ".txt" file provided with the project.
     
     >  Open Terminal and push down to the directory of the project.
