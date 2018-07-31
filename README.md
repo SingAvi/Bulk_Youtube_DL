@@ -16,20 +16,20 @@ Only User Interface to be implied on the project.
 ## Steps To Execute
   - **Clone project** https://github.com/SingAvi/Bulk_Youtube_DL.git
   
-    >  Install the "pythube" library for the python-script
+   -  Install the "pythube" library for the python-script
 ```
 Windows/Mac/Linux - $ pip install pytube
 
 ```
 
-   >  Add your links in the ".txt" file provided with the project.
+   -  Add your links in the ".txt" file provided with the project.
     
-   >  Open Terminal and push down to the directory of the project.
+   -  Open Terminal and push down to the directory of the project.
     
-   >  Execute by typing 
-       >  python bulk_download.py
+   -  Execute by typing 
+       -  python bulk_download.py
         
-  Let it Run until shows 100% completed.
+  -   Let it Run until shows 100% completed.
   
 
 ### People are invited to bring in changes for the same or add new features.
