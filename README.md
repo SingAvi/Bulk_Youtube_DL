@@ -18,8 +18,7 @@ Only User Interface to be implied on the project.
   
     >  Install the "pythube" library for the python-script
         '''
-          Windows/Linux/Mac - $ pip install pytube
-        
+        Windows/Linux/Mac - $ pip install pytube
         '''
   
     >  Add your links in the ".txt" file provided with the project.
