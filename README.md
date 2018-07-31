@@ -17,7 +17,7 @@ Only User Interface to be implied on the project.
   - **Clone project** https://github.com/SingAvi/Bulk_Youtube_DL.git
   
     >  Install the "pythube" library for the python-script
-        ```
+```
 function test() {
   console.log("notice the blank line before this function?");
 }
