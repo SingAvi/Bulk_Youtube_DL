@@ -18,16 +18,16 @@ Only User Interface to be implied on the project.
   
     >  Install the "pythube" library for the python-script
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+Windows/Mac/Linux - $ pip install pytube
+
 ```
-    >  Add your links in the ".txt" file provided with the project.
+
+   >  Add your links in the ".txt" file provided with the project.
     
-    >  Open Terminal and push down to the directory of the project.
+   >  Open Terminal and push down to the directory of the project.
     
-    >  Execute by typing 
-        >  python bulk_download.py
+   >  Execute by typing 
+       >  python bulk_download.py
         
   Let it Run until shows 100% completed.
   
